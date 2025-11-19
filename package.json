@@ -1,13 +1,8 @@
 {
-  "name": "hello-cloud",
+  "name": "node-hello-cloud",
   "version": "1.0.0",
-  "description": "My first Node.js backend app deployed to the cloud",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  }
 }

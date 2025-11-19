@@ -1,7 +1,7 @@
 const http = require("http");
 
 const server = http.createServer((req, res) => {
-  res.write("Hello Cloud from Node.js!");
+  res.write("Hello from my live app!");
   res.end();
 });
 
